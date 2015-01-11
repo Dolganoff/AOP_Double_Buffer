@@ -1,0 +1,122 @@
+Cmp-Mod V01 Created by Cvpcb (2014-12-07 BZR 5316)-product   date = 11/01/2015 16:58:57
+
+BeginCmp
+TimeStamp = /54B29364;
+Reference = C1;
+ValeurCmp = 47u;
+IdModule  = Custom:C1V5-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B29339;
+Reference = C2;
+ValeurCmp = 47u;
+IdModule  = Custom:C1V5-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B28971;
+Reference = C3;
+ValeurCmp = 100n;
+IdModule  = Custom:C2-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B28A52;
+Reference = C4;
+ValeurCmp = 100n;
+IdModule  = Custom:C2-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B2E356;
+Reference = C5;
+ValeurCmp = 10u;
+IdModule  = Custom:C1V5-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B2CC66;
+Reference = C6;
+ValeurCmp = 10u;
+IdModule  = Custom:C1V5-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B29199;
+Reference = P1;
+ValeurCmp = Power;
+IdModule  = Custom:SIL-2-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B2DBF7;
+Reference = P2;
+ValeurCmp = InA;
+IdModule  = Custom:SIL-2-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B2DC3C;
+Reference = P3;
+ValeurCmp = InB;
+IdModule  = Custom:SIL-2-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B2D3B2;
+Reference = P4;
+ValeurCmp = Out;
+IdModule  = Custom:SIL-2-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B2E35D;
+Reference = P5;
+ValeurCmp = Out;
+IdModule  = Custom:SIL-2-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B28AC5;
+Reference = R1;
+ValeurCmp = 1Meg;
+IdModule  = Custom:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B28AF2;
+Reference = R2;
+ValeurCmp = 1Meg;
+IdModule  = Custom:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B2A4B6;
+Reference = R3;
+ValeurCmp = 1K;
+IdModule  = Custom:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B2A6C8;
+Reference = R4;
+ValeurCmp = 1K;
+IdModule  = Custom:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B2A5A0;
+Reference = U1;
+ValeurCmp = TLE2426-TO92;
+IdModule  = Housings_TO-92:TO-92-Free-rugged;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B28497;
+Reference = U2;
+ValeurCmp = TLC2262;
+IdModule  = Custom:DIP-8_LARGE_PADS;
+EndCmp
+
+EndListe

@@ -1,0 +1,8 @@
+15:05:37: Failed to copy the file 'D:\Dropbox\Dropbox\electronics\Github\Mosfet Buffer\src\kicad-vero\mos2D0B.tmp' to 'D:\Dropbox\Dropbox\electronics\Github\Mosfet Buffer\src\kicad-vero\mosfet_buffer-vero.pro' (error 0: l’opération a réussi.)
+15:05:37: File 'D:\Dropbox\Dropbox\electronics\Github\Mosfet Buffer\src\kicad-vero\mos2D0B.tmp' couldn't be renamed 'D:\Dropbox\Dropbox\electronics\Github\Mosfet Buffer\src\kicad-vero\mosfet_buffer-vero.pro' (error 0: l’opération a réussi.)
+15:05:37: can't commit changes to file 'D:\Dropbox\Dropbox\electronics\Github\Mosfet Buffer\src\kicad-vero\mosfet_buffer-vero.pro' (error 0: l’opération a réussi.)
+15:05:37: Failed to update user configuration file.
+15:05:37: Failed to copy the file 'D:\Dropbox\Dropbox\electronics\Github\Mosfet Buffer\src\kicad-vero\mos2D0B.tmp' to 'D:\Dropbox\Dropbox\electronics\Github\Mosfet Buffer\src\kicad-vero\mosfet_buffer-vero.pro' (error 0: l’opération a réussi.)
+15:05:37: File 'D:\Dropbox\Dropbox\electronics\Github\Mosfet Buffer\src\kicad-vero\mos2D0B.tmp' couldn't be renamed 'D:\Dropbox\Dropbox\electronics\Github\Mosfet Buffer\src\kicad-vero\mosfet_buffer-vero.pro' (error 0: l’opération a réussi.)
+15:05:37: can't commit changes to file 'D:\Dropbox\Dropbox\electronics\Github\Mosfet Buffer\src\kicad-vero\mosfet_buffer-vero.pro' (error 0: l’opération a réussi.)
+15:05:37: Failed to update user configuration file.
